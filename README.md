@@ -2,7 +2,7 @@
 **_Multi-modal sensor fusion for 3D airborne sonar imaging in hydrodynamic conditions_**
 
 
-This repo contains code for image reconstruction, simulations, and system analysis for photoacoustic airborne sonar imaging. More information on airborne sonar imaging can be found here.
+This repo contains code for image reconstruction, simulations, and system analysis for our photoacoustic airborne sonar imaging system. More information on airborne sonar imaging can be found [here](airbornesonar.stanford.edu).
 
 All example experimental and simulation data can be found here. Place the data in a folder on the path called 'Data'.
 
@@ -14,7 +14,7 @@ All example experimental and simulation data can be found here. Place the data i
 
 **In the 'Airborne Sonar Simulator' folder:**
 
-  - kWave_Airborne_Sonar_Simulator.m: This script uses the k-Wave MATLAB toolbox to simulate photoacoustic airborne sonar imaging in user-defined conditions. The k-Wave package must be downloaded from here and added to the path.
+  - kWave_Airborne_Sonar_Simulator.m: This script uses the k-Wave MATLAB toolbox to simulate photoacoustic airborne sonar imaging in user-defined conditions. The k-Wave package must be downloaded from [here](http://www.k-wave.org/index.php) and added to the path.
   - Surface_Generator.m: This function is used within the simulator to define surface waves based on the user-defined wind conditions. 
 
 **In the 'System Scripts' folder:**
