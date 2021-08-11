@@ -2,7 +2,7 @@
 **_Multi-modal sensor fusion for 3D airborne sonar imaging in hydrodynamic conditions_**
 
 
-This repo contains code for image reconstruction, simulations, and system analysis for our photoacoustic airborne sonar imaging system. More information on airborne sonar imaging can be found [here](airbornesonar.stanford.edu).
+This repo contains code for image reconstruction, simulations, and system analysis for our photoacoustic airborne sonar imaging system. More information on airborne sonar imaging can be found [here](https://airbornesonar.stanford.edu/).
 
 All example experimental and simulation data can be found here. Place the data in a folder on the path called 'Data'.
 
