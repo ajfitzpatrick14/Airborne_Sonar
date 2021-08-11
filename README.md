@@ -1,5 +1,5 @@
 # Photoacoustic Airborne Sonar System (PASS): 
-_Multi-modal sensor fusion for 3D airborne sonar imaging in hydrodynamic conditions_
+**_Multi-modal sensor fusion for 3D airborne sonar imaging in hydrodynamic conditions_**
 
 
 This repo contains code for image reconstruction, simulations, and system analysis for photoacoustic airborne sonar imaging. More information on airborne sonar imaging can be found here.
