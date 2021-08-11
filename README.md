@@ -14,7 +14,7 @@ All example experimental and simulation data can be found here. Place the data i
 
 **In the 'Airborne_Sonar_Simulator' folder:**
 
-  - kWave_Airborne_Sonar_Simulator.m: This script uses the k-Wave MATLAB toolbox to simulate photoacoustic airborne sonar imaging in user-defined conditions. The k-Wave package must be downloaded from [here](http://www.k-wave.org/index.php) and added to the path.
+  - kWave_PASS_Simulator.m: This script uses the k-Wave MATLAB toolbox to simulate photoacoustic airborne sonar imaging in user-defined conditions. The k-Wave package must be downloaded from [here](http://www.k-wave.org/index.php) and added to the path.
   - Surface_Generator.m: This function is used within the simulator to define surface waves based on the user-defined wind conditions. 
 
 **In the 'System_Scripts' folder:**
