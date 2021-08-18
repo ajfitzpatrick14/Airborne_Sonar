@@ -9,7 +9,7 @@ All example experimental and simulation data can be found here. Place the data i
 **In the 'Image_Reconstruction' folder:**
 
   - ImageReconMain.m: This script is the main image reconstruction script which can be used to reconstruct images from the simulated and experimental datasets.
-  - Functions: This folder contains custom MATLAB functions which perform data pre-processing and image reconstruction (GPW-SAR).
+  - Functions: This folder contains custom MATLAB functions which perform the image reconstruction (GPW-SAR). Note: some functions have been written explicitly for specific data files and therefore may not always generalize without prior edits.
    
 
 **In the 'Airborne_Sonar_Simulator' folder:**
